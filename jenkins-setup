@@ -1,0 +1,5 @@
+have to deploy java application
+sudo -i
+yum install git maven -y
+amazon-linux-extras install java-openjdk21 -y
+yum install jenkins -y
